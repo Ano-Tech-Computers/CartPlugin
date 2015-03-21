@@ -1,0 +1,9 @@
+name: CartPlugin
+main: no.atc.floyd.bukkit.cart.CartPlugin
+version: 0.40
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+        Automatic minecarts
+commands:
+
