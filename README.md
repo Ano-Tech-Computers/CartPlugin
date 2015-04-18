@@ -1,0 +1,2 @@
+# CartPlugin
+Automatic minecarts
